@@ -1,2 +1,2 @@
 # GUCera
- A simplified implementation of GUC website; frontend/backend with an emphasis on SQL
+ A simplified implementation of GUC website using C# and ASP.NET; frontend/backend with an emphasis on SQL
